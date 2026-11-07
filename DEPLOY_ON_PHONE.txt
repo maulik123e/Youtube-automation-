@@ -1,0 +1,4 @@
+1. Extract the ZIP on your phone.
+2. Upload the extracted project files to a new public GitHub repository.
+3. Deploy app.py from that repository at https://share.streamlit.io.
+4. Paste your Gemini key in the app UI when generating a Short.
